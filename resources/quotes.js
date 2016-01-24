@@ -1,4 +1,4 @@
 document.writeln('<dl>');
-document.writeln('<dt class=\'tqpQuote\'> “A good leader takes a little more than his share of the blame, a little less than his share of the credit.”</dt>');
-document.writeln('<dd> <b><font size=\'-1\' color = \'blue\'>– Arnold H. Glasow</font></b></dd><p> </p>');
+document.writeln('<dt class=\'tqpQuote\'> “Some succeed because they are destined to, but most succeed because they are determined to.”</dt>');
+document.writeln('<dd> <b><font size=\'-1\' color = \'blue\'>– Henry Van Dyke</font></b></dd><p> </p>');
 document.writeln('</dl>');
